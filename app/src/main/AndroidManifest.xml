@@ -24,10 +24,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LaunchCoroutinesActivity"
+            android:name="._1_basics.LaunchCoroutinesActivity"
             android:exported="true"
-            android:theme="@style/Theme.CourseCoroutines">
-        </activity>
+            android:theme="@style/Theme.CourseCoroutines" />
+        <activity
+            android:name="._1_basics.SuspendActivity"
+            android:exported="true"
+            android:theme="@style/Theme.CourseCoroutines" />
+
     </application>
 
 </manifest>

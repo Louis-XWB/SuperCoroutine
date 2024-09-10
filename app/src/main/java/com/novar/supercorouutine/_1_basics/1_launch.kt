@@ -1,4 +1,4 @@
-package com.novar.supercorouutine
+package com.novar.supercorouutine._1_basics
 
 import android.os.Bundle
 import android.os.Handler
