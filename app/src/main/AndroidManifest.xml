@@ -32,6 +32,11 @@
             android:exported="true"
             android:theme="@style/Theme.CourseCoroutines" />
 
+        <activity
+            android:name="._1_basics.AndroidActivity"
+            android:exported="true"
+            android:theme="@style/Theme.CourseCoroutines" />
+
     </application>
 
 </manifest>
