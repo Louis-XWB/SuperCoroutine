@@ -37,6 +37,11 @@
             android:exported="true"
             android:theme="@style/Theme.CourseCoroutines" />
 
+        <activity
+            android:name="._1_basics.WithContextActivity"
+            android:exported="true"
+            android:theme="@style/Theme.CourseCoroutines" />
+
     </application>
 
 </manifest>
