@@ -54,6 +54,10 @@
             android:exported="true"
             android:theme="@style/Theme.CourseCoroutines" />
 
+        <activity android:name="._1_basics.ParallelActivity"
+            android:exported="true"
+            android:theme="@style/Theme.CourseCoroutines" />
+
     </application>
 
 </manifest>
